@@ -2,7 +2,7 @@
 # Attack Surface Map - Metasploitable2
 
 
-**Student Name:** Jumanah Alshehri  
+**Name:** Jumanah Alshehri  
 **Date & Time:** 19/10/2025 4:00 PM
 
 ## Project summary
